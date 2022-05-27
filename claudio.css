@@ -1,0 +1,54 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #131313;
+    
+}
+
+.menu {
+    border-bottom: 2px #FFFFFF solid;
+    border-image: 
+    linear-gradient(
+      to right, 
+      white, 
+      #131313
+    ) 100% 1;    
+    padding-bottom: 31px;
+}
+
+.menu_content {
+    display: flex;
+
+    flex-direction: row;
+    
+    font-size: 32px;
+   
+    font-weight: 900;
+
+    padding-left: 65px;
+
+    color: #FFFFFF;
+
+    width: 650px;
+
+    justify-content: space-between;
+
+    margin-left: 627px;
+
+    margin-top: -30px ;
+
+}
+
+#portfolio_title{
+
+    padding-left: 65px;
+
+    padding-top: 21px; 
+   
+    font-weight: 900;
+
+    font-size: 48px;
+
+    color: #FFFFFF;
+
+}
+
